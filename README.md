@@ -9,6 +9,7 @@ Results-driven Cyber Security Engineer with strong expertise in SOC operations, 
 Proven ability to work both independently and collaboratively within fast-paced SOC environments, demonstrating flexibility, reliability, and initiative. Experienced in supporting governance, risk, and compliance (GRC) processes, while ensuring alignment with regulatory requirements and organizational objectives. Passionate about strengthening security postures, improving incident response strategies, and delivering resilient solutions that protect critical business assets.
 Here are some ideas to get you started:
 
+ Motivated Cyber Security professional with hands-on experience in SOC operations, SIEM technologies, and incident response, seeking to leverage strong analytical and technical skills to detect, investigate, and mitigate security threats. Skilled in implementing and aligning with security frameworks such as ISO 27001, PCI-DSS, and NIST, as well as supporting governance, risk, and compliance (GRC) initiatives. With a solid foundation in IT support and enterprise systems, I bring excellent problem-solving ability, adaptability, and a commitment to safeguarding critical assets while enabling secure business operations. My objective is to contribute to an organisation’s resilience by enhancing threat detection, improving incident response, and driving continuous security improvements
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
