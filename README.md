@@ -13,6 +13,10 @@ My Objective
 
  Motivated Cyber Security professional with hands-on experience in SOC operations, SIEM technologies, and incident response, seeking to leverage strong analytical and technical skills to detect, investigate, and mitigate security threats. Skilled in implementing and aligning with security frameworks such as ISO 27001, PCI-DSS, and NIST, as well as supporting governance, risk, and compliance (GRC) initiatives. With a solid foundation in IT support and enterprise systems, I bring excellent problem-solving ability, adaptability, and a commitment to safeguarding critical assets while enabling secure business operations. My objective is to contribute to an organisation’s resilience by enhancing threat detection, improving incident response, and driving continuous security improvements
 
+
+! Skill                                              !      Associated Porject       !
+---------------------------------------------------------------------------------------
+!                                  ! a href="hittps:??google.com"Deteection lab</>a>  !
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
