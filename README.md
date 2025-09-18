@@ -1,6 +1,8 @@
 Hello A'm Joseph 
 
-< a href="https://linkedin.com/in/joseph-awe-1a8539121"><img src="https://img.shields.io/badge/-linkedin-0072bi?&sytyle=for-the badge&logo=linkedinlogocolor=white" /><?a>
+<a href="https://linkedin.com/in/joseph-awe-1a8539121">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 Results-driven Cyber Security Engineer with strong expertise in SOC operations, SIEM technologies, and the implementation of leading security frameworks such as ISO 27001, PCI-DSS, and NIST. Skilled in threat detection, incident response, and log analysis, with hands-on experience managing enterprise security tools to identify and mitigate risks in real time. Adept at problem-solving with a balanced sense of when to deep dive into technical detail and when to focus on high-level patterns.
 
