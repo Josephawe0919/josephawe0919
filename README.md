@@ -1,9 +1,12 @@
 Hello A'm Joseph 
 
-<!--
-**Josephawe0919/josephawe0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+< a href="https://linkedin.com/in/joseph-awe-1a8539121"><img src="https://img.shields.io/badge/-linkedin-0072bi?&sytyle=for-the badge&logo=linkedinlogocolor=white" /><?a>
 
+Results-driven Cyber Security Engineer with strong expertise in SOC operations, SIEM technologies, and the implementation of leading security frameworks such as ISO 27001, PCI-DSS, and NIST. Skilled in threat detection, incident response, and log analysis, with hands-on experience managing enterprise security tools to identify and mitigate risks in real time. Adept at problem-solving with a balanced sense of when to deep dive into technical detail and when to focus on high-level patterns.
+
+Proven ability to work both independently and collaboratively within fast-paced SOC environments, demonstrating flexibility, reliability, and initiative. Experienced in supporting governance, risk, and compliance (GRC) processes, while ensuring alignment with regulatory requirements and organizational objectives. Passionate about strengthening security postures, improving incident response strategies, and delivering resilient solutions that protect critical business assets.
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
